@@ -26,14 +26,14 @@ A **machine learning-based web app** that detects the language of a given text i
 ---
 
 ## 🌐 Live Demo  
-🚀 **[Try the Deployed Model Here](https://language-detection-81dl.onrender.com)**  
+🚀 **[Try the Deployed Model Here]([https://language-detection-81dl.onrender.com])**  
 
 ---
 
 ## 🎯 How to Run Locally  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/Rajarya2003/Language-Detection.git
+  [ git clone https://github.com/Rajarya2003/Language-Detection.git]
    cd Language-Detection
    ```
 
