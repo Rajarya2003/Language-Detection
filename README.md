@@ -1,8 +1,8 @@
 
 ```md
-# 🌍 Language Detection Model  
+ 🌍 Language Detection Model  
 
-A **machine learning-based web app** that detects the language of a given text input. Built using **Flask, Scikit-learn, and NLP techniques**.
+A machine learning-based web app that detects the language of a given text input. Built using Flask, Scikit-learn, and NLP techniques**.
 
 ---
 
